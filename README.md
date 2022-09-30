@@ -1,1 +1,2 @@
 # DistributedSystems
+This is a project that was developed for our class Distributed Systems. We had to build the backend and then the frontend part of an application similar to facebook's messenger which included having multiple brokers that can communicate through different machines and each one is responsible for a number of specific conversations. The backend part was developed by me and my colleague Konstantinos dimitropoulos and the frontend part was developed by me.
